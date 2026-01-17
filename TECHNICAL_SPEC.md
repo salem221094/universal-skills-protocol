@@ -33,4 +33,4 @@ A compliant ASP Validator must iterate through the repository and verify:
 - **On-Load Protocol**: "Load ASP Specification. If a requested skill is non-compliant, run the Repairer before execution."
 
 ## 4. Reference Implementation
-The canonical tools for this spec are found in the official ASP registries and supporting repositories like [Agent-Zero](https://github.com/salem221094/antigravity-maker-reliability).
+The canonical tools for this spec are found in the official ASP registries and supporting repositories like [MAD-Logic](https://github.com/salem221094/antigravity-maker-reliability).

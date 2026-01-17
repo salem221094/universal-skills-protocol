@@ -21,7 +21,7 @@ To move AI interactions from **"Best Effort"** to **"Guaranteed Execution."** AS
 - **Universal Portability**: Works across Claude Code, Cursor, Antigravity, and custom Agents.
 
 ## 🔗 Reference Implementations
-- **[Agent-Zero](https://github.com/salem221094/antigravity-maker-reliability)**: The official high-reliability implementation using MAKER principles.
+- **[MAD-Logic](https://github.com/salem221094/antigravity-maker-reliability)**: The official high-reliability implementation using MAKER principles.
 
 ---
 *Maintained by salem221094*
