@@ -25,3 +25,7 @@ To move AI interactions from **"Best Effort"** to **"Guaranteed Execution."** AS
 
 ---
 *Maintained by salem221094*
+
+## 🔍 Discovery & SEO
+Add these topics to the GitHub repository settings:
+`asp-v2`, `agent-protocol`, `ai-skills`, `standardization`, `deterministic-ai`, `agent-directive`, `skills-registry`.
