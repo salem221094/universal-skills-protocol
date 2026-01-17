@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you utilize the Advanced Skills Protocol in your agentic systems, please cite it as follows."
+authors:
+- name: "The ASP Community"
+- family-names: "Salem"
+  given-names: "[USER]"
+title: "The Advanced Skills Protocol (ASP) v2.0: A Universal Standard for Deterministic Agentic Skills"
+version: 2.0.0
+date-released: 2026-01-17
+url: "https://github.com/salem221094/universal-skills-protocol"
